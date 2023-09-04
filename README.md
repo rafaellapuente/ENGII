@@ -3,6 +3,6 @@
 |  **Integrantes**  |
 |:----:|
 |Rafael Vaz Lapuente|
-||
+|Eduardo Rosa |
 ||
 ||
