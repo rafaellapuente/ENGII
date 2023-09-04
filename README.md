@@ -4,5 +4,5 @@
 |:----:|
 |Rafael Vaz Lapuente|
 |Eduardo Rosa |
-||
+|Rafael Baade Ferreira|
 ||
