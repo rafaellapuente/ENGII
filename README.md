@@ -5,4 +5,4 @@
 |Rafael Vaz Lapuente|
 |Eduardo Rosa |
 |Rafael Baade Ferreira|
-||
+|Franklin Laroque de Medeiros|
